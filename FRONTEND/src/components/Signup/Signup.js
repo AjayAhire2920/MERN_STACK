@@ -20,7 +20,7 @@ function Signup() {
     });
 
     return (
-        <div>
+        <div className="register-page">
             <h1>
                 Register a <span variant="info">new account!</span>
             </h1>
